@@ -1,3 +1,4 @@
+*.xcf
 API.txt
 cred.txt
 __pycache__
