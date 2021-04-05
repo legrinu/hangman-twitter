@@ -16,8 +16,8 @@ __license__ = "MIT"
 import tweepy
 
 cred_api = list(open("API.txt", "r"))
-CONSUMER_TOKEN = cred_api[0]
-CONSUMER_SECRET = cred_api[1]
+CONSUMER_TOKEN = cred_api[0].strip("\n")
+CONSUMER_SECRET = cred_api[1].strip("\n")
 
 class TwitterOAuthTool:
     """OAuth tool that allows a twitter user to authorize the app to access her

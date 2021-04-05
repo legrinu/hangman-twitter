@@ -13,7 +13,7 @@ if __name__ == "__main__":
         access_token, access_secret = start_auth()    
     else:
         access_token = cred[0].strip("\n")
-        access_secret = cred [1].strip("\n")
+        access_secret = cred[1].strip("\n")
     auth = tweepy.OAuthHandler(CONSUMER_TOKEN, CONSUMER_SECRET)
     auth.set_access_token(access_token, access_secret)
 
