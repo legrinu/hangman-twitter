@@ -1,0 +1,8 @@
+New Game!
+Choosing a random word...
+Please type a letter or the word.
+You guessed the word!
+You have
+wrong tries left.
+Please choose a language. [de/en]
+Want to play again? [y/n]

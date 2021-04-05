@@ -1,0 +1,8 @@
+Neues Spiel!
+Wähle zufälliges Wort aus...
+Bitte gebe einen Buchstaben oder das Wort ein.
+Du hast das Wort erraten!
+Du hast
+Fehlversuche übrig.
+Bitte wähle eine Sprache. [de/en]
+Möchtest du nochmal spielen? [y/n] 

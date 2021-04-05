@@ -1,3 +1,4 @@
-*.txt
+API.txt
+cred.txt
 __pycache__
 hangman copy.py
